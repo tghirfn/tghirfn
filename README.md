@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there 👋 Welcome to my GitHub! I'm Teguh Irfan;
 
-<!--
-**tghirfn/tghirfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Twitter Follow](https://img.shields.io/twitter/follow/tghirfn?style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=tghirfn.tghirfn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### aboutMe.js
+
+```javascript
+const amado = {
+    pronouns: "he" | "him",
+    code: [Javascript, HTML, CSS],
+    askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
+    technologies: {
+        frontEnd: {
+            css: ["bootstrap", "materialize"]
+        },
+        backEnd: {
+            js: ["firebase", "node"]
+        }        
+    }
+};
+```
+
+<p align="center">
+Check out my repos ⬇️  
+</p>
+
