@@ -7,7 +7,7 @@
 ### aboutMe.js
 
 ```javascript
-const amado = {
+const teguhirfan = {
     pronouns: "he" | "him",
     code: [Javascript, HTML, CSS],
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
